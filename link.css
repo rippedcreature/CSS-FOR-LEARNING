@@ -1,0 +1,33 @@
+#customer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#customer td{
+    border: 3px solid red;
+    padding: 8px;
+}
+
+#customer th{
+
+    padding: 12px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+}
+
+#customer tr:nth-child(even){
+    background-color: pink;
+}
+
+#customer tr:hover{
+    background-color: green;
+}
+
+
+a:link{
+    color: black;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: blueviolet;
+}

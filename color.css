@@ -1,0 +1,22 @@
+h1{
+    color: navy;
+    border: 4px solid red;
+}
+
+h2{
+    color: rgb(0,23,224);
+    border: 4px solid pink;
+}
+
+h3{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+h4{
+    color: #545454;
+}
+
+h5{
+    color: hsl(0, 30%, 40%);
+    background-color: hsla(hue, saturation, lightness, alpha);
+}
